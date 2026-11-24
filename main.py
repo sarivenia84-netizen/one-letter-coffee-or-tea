@@ -1,10 +1,10 @@
-"""One letter: coffee.
+"""Coffee: the only vote that arrives already awake.
 
-Coffee is the answer that needs no argument. A single A carries the whole
-thing -- the smell, the ritual, the stubborn second cup. Tea would need a
-song; coffee just needs a letter.
+Tea asks you to wait for the leaves and talk about it afterward; coffee is a
+decision you can make half asleep and defend before the kettle boils. So it
+gets one letter, not a manifesto -- A, first in the alphabet, first out of bed.
 """
 
-import sys
+from sys import stdout
 
-sys.stdout.write("A")
+stdout.write("A")
