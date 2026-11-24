@@ -1,8 +1,7 @@
 """Coffee: the only vote that arrives already awake.
 
-Tea wants a ceremony and a conversation; coffee is already in your hand.
-So it
-gets one letter, not a manifesto -- A, first in the alphabet, first out of bed.
+Tea wants a ceremony and a conversation; coffee is already in your hand. So
+it gets one letter, not a manifesto -- A, first in the alphabet, first awake.
 """
 
 from sys import stdout
